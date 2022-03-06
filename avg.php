@@ -1,5 +1,5 @@
 <?php
 function srednia($a, $b) {
-	return 0.1*$a + 0.5*$b;
+	return 0.4*$a + 1.5*$b;
 }
 ?>
